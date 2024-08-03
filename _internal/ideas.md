@@ -58,7 +58,6 @@
   - [Migrating to Eleventy](https://11tybundle.dev/categories/migrating-to-eleventy/) category on 11ty Bundle. Note a search for “Jekyll” turns up much more in Dates and Layouts categories as well.
   - @JackieGable: After trying 3 times before (in the past 2 years) to transition my website from Jekyll to Eleventy, I finally decided it was time to get serious about it. The Eleventy documentation was the problem for me each time I tried to make the move. Even though it's extensive, it's all-over-the-place and not beginner friendly. So, I began searching YouTube for tutorials on getting started with Eleventy, and I was disappointed. Zach teaches a few but he doesn't approach it from a beginner's point of view. […]  I'm planning on reaching out to Brad Traversy, (https://www.traversymedia.com) my favorite YouTube teacher, to see if he might be interested in teaching a beginner's course on Eleventy. Brad knows how to explain things in simple terms (teach me like I'm Five) and doesn't assume anything.
     I truly believe that more people would learn to use Eleventy if there was better documentation and video tutorials available. Since I am a beginner to Eleventy, I can certainly contribute the documentation that I write for myself once I learn a new concept.
-  - 
 
 # Other outcomes
 
