@@ -1,6 +1,6 @@
 # Layout/visual
 
-- @rdela: a more [MDN](https://developer.mozilla.org/) style layout, moving our table of “Contents” outline and jump links from the top of the article to a sidebar on the right, if the screen is wide enough, that follows you down the page and highlights the section of your current scroll position. See for example: [<details>: The Details disclosure element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
+- @rdela: a more [MDN](https://developer.mozilla.org/) style layout, moving our table of “Contents” outline and jump links from the top of the article to a sidebar on the right, if the screen is wide enough, that follows you down the page and highlights the section of your current scroll position. See for example: [&lt;details&gt;: The Details disclosure element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
   - Worth noting that [Tugboat](https://tugboat.11ty.dev/) has this already on the left sidebar via [table-of-contents.webc](https://github.com/11ty/tugboat/blob/main/_components/table-of-contents.webc)
 - @rdela: One really long page can feel overwhelming, although it does allow one to use find on page, which can be super helpful to find all occurrences of a term.
 
