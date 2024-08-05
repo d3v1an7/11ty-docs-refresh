@@ -164,7 +164,7 @@
     > Okay, how do I use it with CSS background-image? Exercise left to reader.
     > It took me a while to realize I need to scroll all the way down to the Asynchronous Shortcodes section to get useful code. "Use this in your templates" is more important than "Usage".
 
-    ---
+      ---
     > [@bobmonsour](https://indieweb.social/@bobmonsour), replying: There's a recent article on this topic here: 
     > https://medium.com/@rentierdigital/11ty-how-to-use-the-image-plugin-to-generate-responsive-images-for-css-d5236c2111e6
   - https://hachyderm.io/@cvennevik/112860045301210656
@@ -172,7 +172,7 @@
     > Main grievances:
     > - The public API is poorly documented (what methods exist and what is possible to do with them)
     > - Central concepts like "templates," "layouts," and "data" are sparsely and sporadically explained, and I have to seek out community member blog posts to find explanations that make sense to me
-  - [Curso Eleventy (Spanish video)](https://www.youtube.com/watch?v=yCF9l4_E5rI) by @jonmircha
+  - [Curso Eleventy (Spanish video)](https://www.youtube.com/watch?v=yCF9l4_E5rI) by [@jonmircha](https://github.com/jonmircha)
     > En este curso te enseño a trabajar con Eleventy, un generador de sitios estáticos rápido, accesible y minimalista.
     > 📦 RECURSOS:
     > 🦊 Mis Cursos - https://jonmircha.com/cursos
