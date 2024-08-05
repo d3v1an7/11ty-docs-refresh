@@ -97,12 +97,6 @@
     > https://github.com/JonUK/eleventy-blog
 
     Demo not on Netlify any more, but noticed someone tinkering with Base Blog had also cloned this, so still getting traction in 2024, 5 years later, pretty impressive.
-  - [Curso Eleventy (Spanish video)](https://www.youtube.com/watch?v=yCF9l4_E5rI) by @jonmircha
-    > En este curso te enseño a trabajar con Eleventy, un generador de sitios estáticos rápido, accesible y minimalista.
-    > 📦 RECURSOS:
-    > 🦊 Mis Cursos - https://jonmircha.com/cursos
-    > 🛢️ Repositorio de Códigos en GitHub - https://github.com/jonmircha/starter-project-eleventy-github-pages
-    (has accompanying code repo linked above)
   - [Migrating to Eleventy](https://11tybundle.dev/categories/migrating-to-eleventy/) category on 11ty Bundle. Note a search for “Jekyll” turns up much more in Dates and Layouts categories as well.
   - @JackieGable: After trying 3 times before (in the past 2 years) to transition my website from Jekyll to Eleventy, I finally decided it was time to get serious about it. The Eleventy documentation was the problem for me each time I tried to make the move. Even though it's extensive, it's all-over-the-place and not beginner friendly. So, I began searching YouTube for tutorials on getting started with Eleventy, and I was disappointed. Zach teaches a few but he doesn't approach it from a beginner's point of view. […]  I'm planning on reaching out to Brad Traversy, (https://www.traversymedia.com) my favorite YouTube teacher, to see if he might be interested in teaching a beginner's course on Eleventy. Brad knows how to explain things in simple terms (teach me like I'm Five) and doesn't assume anything.
     I truly believe that more people would learn to use Eleventy if there was better documentation and video tutorials available. Since I am a beginner to Eleventy, I can certainly contribute the documentation that I write for myself once I learn a new concept.
@@ -178,6 +172,13 @@
     > Main grievances:
     > - The public API is poorly documented (what methods exist and what is possible to do with them)
     > - Central concepts like "templates," "layouts," and "data" are sparsely and sporadically explained, and I have to seek out community member blog posts to find explanations that make sense to me
+  - [Curso Eleventy (Spanish video)](https://www.youtube.com/watch?v=yCF9l4_E5rI) by @jonmircha
+    > En este curso te enseño a trabajar con Eleventy, un generador de sitios estáticos rápido, accesible y minimalista.
+    > 📦 RECURSOS:
+    > 🦊 Mis Cursos - https://jonmircha.com/cursos
+    > 🛢️ Repositorio de Códigos en GitHub - https://github.com/jonmircha/starter-project-eleventy-github-pages
+    (has accompanying code repo linked above)
+    Another interesting thing to think about Jonathan MirCha’s Curso Eleventy brings up is internationalization. Whether 11ty is ready to take that on is the first conversation there I suppose.
 
 # Other outcomes
 
@@ -232,5 +233,3 @@ It’s interesting to think about entry points to the docs as something that cou
 10. Star Eleventy on GitHub!
 
 11. Footer links
-
-Another interesting thing to think about Jonathan MirCha’s Curso Eleventy brings up is internationalization. Whether 11ty is ready to take that on is the first conversation there I suppose.
