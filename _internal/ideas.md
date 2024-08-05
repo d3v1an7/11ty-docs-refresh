@@ -37,7 +37,7 @@
     > > When `isTopLevelComponent` is not true (for inner components, not page-level) this scopes:
     > >
     > > - global data under $data
-    > > - helpers under webc.*
+    > > - helpers under webc.\*
     > >
     > > This prevents global data leaking into inner components.
     > > Notably webc:setup always operates in top level component mode.
@@ -149,7 +149,7 @@
     > A really good example of documentation is React: https://react.dev/learn
   - https://mastodon.social/@bamnet/112821274178281344
     [@bamnet](https://github.com/bamnet)
-    
+
     > Probably an unpopular opinion: #11ty is the quirkiest static site generator I've tried.
     > The docs have tons of words, but sparse on key details and examples.
     > "Just clone someone's boilerplate" feels like a supply chain attack waiting to happen.
@@ -166,7 +166,7 @@
     > It's actually one of the best tech YT videos I've seen 😍 , but it took me an hour to work up the courage to click the link.
 
     > https://www.11ty.dev/docs/plugins/image/ is where I get lost / frustrated.
-    > "Use with <picture>, <img>, CSS background-image, or others!"
+    > "Use with &lt;picture&gt;, &lt;img&gt;, CSS background-image, or others!"
     > Okay, how do I use it with CSS background-image? Exercise left to reader.
     > It took me a while to realize I need to scroll all the way down to the Asynchronous Shortcodes section to get useful code. "Use this in your templates" is more important than "Usage".
 
