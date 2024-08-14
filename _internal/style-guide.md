@@ -34,7 +34,7 @@
 - Use Merriam-Webster.com for spelling.
 - Spell out abbreviations on first reference, followed by the abbreviation in parentheses.
 - Avoid directional language (for example, above or below).
-- Try to use fewer than 26 words per sentence, with the most important information first.
+- Sentences should lead with important information, and ideally fewer than 26 words.
 
 ## Formatting
 
