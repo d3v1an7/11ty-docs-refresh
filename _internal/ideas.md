@@ -37,7 +37,7 @@
     > > When `isTopLevelComponent` is not true (for inner components, not page-level) this scopes:
     > >
     > > - global data under $data
-    > > - helpers under webc.*
+    > > - helpers under webc.\*
     > >
     > > This prevents global data leaking into inner components.
     > > Notably webc:setup always operates in top level component mode.
@@ -97,12 +97,6 @@
     > https://github.com/JonUK/eleventy-blog
 
     Demo not on Netlify any more, but noticed someone tinkering with Base Blog had also cloned this, so still getting traction in 2024, 5 years later, pretty impressive.
-  - [Curso Eleventy (Spanish video)](https://www.youtube.com/watch?v=yCF9l4_E5rI) by @jonmircha
-    > En este curso te enseño a trabajar con Eleventy, un generador de sitios estáticos rápido, accesible y minimalista.
-    > 📦 RECURSOS:
-    > 🦊 Mis Cursos - https://jonmircha.com/cursos
-    > 🛢️ Repositorio de Códigos en GitHub - https://github.com/jonmircha/starter-project-eleventy-github-pages
-    (has accompanying code repo linked above)
   - [Migrating to Eleventy](https://11tybundle.dev/categories/migrating-to-eleventy/) category on 11ty Bundle. Note a search for “Jekyll” turns up much more in Dates and Layouts categories as well.
   - @JackieGable: After trying 3 times before (in the past 2 years) to transition my website from Jekyll to Eleventy, I finally decided it was time to get serious about it. The Eleventy documentation was the problem for me each time I tried to make the move. Even though it's extensive, it's all-over-the-place and not beginner friendly. So, I began searching YouTube for tutorials on getting started with Eleventy, and I was disappointed. Zach teaches a few but he doesn't approach it from a beginner's point of view. […]  I'm planning on reaching out to Brad Traversy, (https://www.traversymedia.com) my favorite YouTube teacher, to see if he might be interested in teaching a beginner's course on Eleventy. Brad knows how to explain things in simple terms (teach me like I'm Five) and doesn't assume anything.
     I truly believe that more people would learn to use Eleventy if there was better documentation and video tutorials available. Since I am a beginner to Eleventy, I can certainly contribute the documentation that I write for myself once I learn a new concept.
@@ -149,7 +143,7 @@
     > A really good example of documentation is React: https://react.dev/learn
   - https://mastodon.social/@bamnet/112821274178281344
     [@bamnet](https://github.com/bamnet)
-    
+
     > Probably an unpopular opinion: #11ty is the quirkiest static site generator I've tried.
     > The docs have tons of words, but sparse on key details and examples.
     > "Just clone someone's boilerplate" feels like a supply chain attack waiting to happen.
@@ -166,11 +160,11 @@
     > It's actually one of the best tech YT videos I've seen 😍 , but it took me an hour to work up the courage to click the link.
 
     > https://www.11ty.dev/docs/plugins/image/ is where I get lost / frustrated.
-    > "Use with <picture>, <img>, CSS background-image, or others!"
+    > "Use with &lt;picture&gt;, &lt;img&gt;, CSS background-image, or others!"
     > Okay, how do I use it with CSS background-image? Exercise left to reader.
     > It took me a while to realize I need to scroll all the way down to the Asynchronous Shortcodes section to get useful code. "Use this in your templates" is more important than "Usage".
 
-    ---
+      ---
     > [@bobmonsour](https://indieweb.social/@bobmonsour), replying: There's a recent article on this topic here: 
     > https://medium.com/@rentierdigital/11ty-how-to-use-the-image-plugin-to-generate-responsive-images-for-css-d5236c2111e6
   - https://hachyderm.io/@cvennevik/112860045301210656
@@ -178,6 +172,13 @@
     > Main grievances:
     > - The public API is poorly documented (what methods exist and what is possible to do with them)
     > - Central concepts like "templates," "layouts," and "data" are sparsely and sporadically explained, and I have to seek out community member blog posts to find explanations that make sense to me
+  - [Curso Eleventy (Spanish video)](https://www.youtube.com/watch?v=yCF9l4_E5rI) by [@jonmircha](https://github.com/jonmircha)
+    > En este curso te enseño a trabajar con Eleventy, un generador de sitios estáticos rápido, accesible y minimalista.
+    > 📦 RECURSOS:
+    > 🦊 Mis Cursos - https://jonmircha.com/cursos
+    > 🛢️ Repositorio de Códigos en GitHub - https://github.com/jonmircha/starter-project-eleventy-github-pages
+    (has accompanying code repo linked above)
+    Another interesting thing to think about Jonathan MirCha’s Curso Eleventy brings up is internationalization. Whether 11ty is ready to take that on is the first conversation there I suppose.
 
 # Other outcomes
 
@@ -232,5 +233,3 @@ It’s interesting to think about entry points to the docs as something that cou
 10. Star Eleventy on GitHub!
 
 11. Footer links
-
-Another interesting thing to think about Jonathan MirCha’s Curso Eleventy brings up is internationalization. Whether 11ty is ready to take that on is the first conversation there I suppose.
