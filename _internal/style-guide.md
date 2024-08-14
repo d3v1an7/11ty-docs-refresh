@@ -11,7 +11,7 @@
 ## Language and tone
 
 > [!NOTE]
-> `[TODO]` Provide yes/no example of each.
+> TODO: Provide yes/no example of each.
 
 - Write for a global audience.
 - Friendly, but not frivolous.
@@ -27,7 +27,7 @@
 ## Style
 
 > [!NOTE]
-> `[TODO]` Provide yes/no example of each.
+> TODO: Provide yes/no example of each.
 
 - Use sentence case for document titles and section headings.
 - Use descriptive and meaningful link text.
@@ -39,22 +39,22 @@
 ## Formatting
 
 > [!NOTE]
-> `[TODO]` Provide yes/no example of each.
+> TODO: Provide yes/no example of each.
 
 - Don't skip levels of the heading hierarchy.
-  - :+1: h1, then h2, then h3
-  - :-1: h1, then h3
+  - Adopt: `<h1>`, then `<h2>`, then `<h3>`
+  - Avoid: `<h1>`, then `<h3>`
 - Use meaningful link text.
-  - :+1: <a>read the documentation</a>
-  - :-1: <a>click here</a>
+  - Adopt: `<a>read the documentation</a>`
+  - Avoid: `<a>click here</a>`
+- Use qualifying nouns for technical keywords.
+  - Adopt: the `example.yaml` file
+  - Avoid: `example.yaml`
 - Use bold for `[TODO]`
 - Use italics for `[TODO]`
 - Use backticks for `[TODO]`
 - Use single quotes for `[TODO]`
 - Use double quotes for `[TODO]`
-- Use qualifying nouns for technical keywords.
-  - :+1: the `example.yaml` file
-  - :-1: `example.yaml`
 
 ## Product
 
