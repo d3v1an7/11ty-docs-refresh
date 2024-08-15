@@ -12,7 +12,7 @@
 ## Language and tone
 
 | Guidance                                                                        | Recommended                                           | Not recommended                                   |
-|---------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------|
+|:--------------------------------------------------------------------------------|:------------------------------------------------------|:--------------------------------------------------|
 | Write for a global audience.                                                    | "Releasing in October 2024."                          | "Releasing this fall."                            |
 | Be friendly, but not frivolous.                                                 | "Let's explore this feature!"                         | "This feature has mad rizz."                      |
 | Use positive constructions, unless pointing out things to specifically avoid.   | "Ensure that you..."                                  | "Don't forget to..."                              |
@@ -27,7 +27,7 @@
 ## Style
 
 | Guidance                                                                                 | Recommended | Not recommended |
-|------------------------------------------------------------------------------------------|-------------|-----------------|
+|:-----------------------------------------------------------------------------------------|:------------|:----------------|
 | Use sentence case for document titles and section headings.                              | `[TODO]`    | `[TODO]`        |
 | Use descriptive and meaningful link text.                                                | `[TODO]`    | `[TODO]`        |
 | Use Merriam-Webster.com for spelling.                                                    | `[TODO]`    | `[TODO]`        |
@@ -38,7 +38,7 @@
 ## Formatting
 
 | Guidance                                                                                                  | Recommended                        | Not recommended      |
-|-----------------------------------------------------------------------------------------------------------|------------------------------------|----------------------|
+|:----------------------------------------------------------------------------------------------------------|:-----------------------------------|:---------------------|
 | Don't skip levels of the heading hierarchy.                                                               | `<h1>` &rarr; `<h2>` &rarr; `<h3>` | `<h1>` &rarr; `<h3>` |
 | Use meaningful link text.                                                                                 | `<a>read the documentation</a>`    | `<a>click here</a>`  |
 | Use qualifying nouns for technical keywords.                                                              | the `example.yaml` file            | `example.yaml`       |
