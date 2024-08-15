@@ -2,59 +2,51 @@
 
 ## Guiding principles
 
-**Inclusive**: Concepts, language and tone are clear, inclusive and accessible by default.
+**Inclusive**: Concepts, language and tone used is clear, inclusive and accessible by default.
 
-**Iterative**: Perfect is the enemy of good.
+**Iterative**: Release, get feedback, improve. Perfect is the enemy of good.
 
-**Light**: 11ty supports the indie web and the tone should reflect this! Without sacrificing clarity, the tone should be slightly more weird and fun, less robotic and sterile.
+**Light**: 11ty supports the indie web, and the overall style should reflect this.
+
 
 ## Language and tone
 
-> [!NOTE]
-> TODO: Provide yes/no example of each.
-
-- Write for a global audience.
-- Friendly, but not frivolous.
-- Use positive constructions, unless pointing out things to specifically avoid.
-- Don't assume that the reader already knows what you're talking about.
-- Avoid ableist and unnecessarily gendered language.
-- Avoid non-inclusive language or terms.
-- Use present tense.
-- Use active voice, making it clear who performs the action.
-- Address the reader directly, using 'you' instead of 'we', 'the user' or 'they'.
-- Conditions appear before instructions, not after.
+| Guidance                                                                        | Recommended                                           | Not recommended                                   |
+|---------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------|
+| Write for a global audience.                                                    | "Releasing in October 2024."                          | "Releasing this fall."                            |
+| Be friendly, but not frivolous.                                                 | "Let's explore this feature!"                         | "This feature has mad rizz."                      |
+| Use positive constructions, unless pointing out things to specifically avoid.   | "Ensure that you..."                                  | "Don't forget to..."                              |
+| Don't assume that the reader already knows what you're talking about.           | "In Eleventy, collections allow you to..."            | "Collections are used for grouping content.       |
+| Avoid ableist, violent and unnecessarily gendered language.                     | "Remove the handmade placeholder file."               | "Kill the man made dummy file."                   |
+| Avoid non-inclusive language or terms.                                          | "Open the primary layout."                            | "Open the master layout."                         |
+| Use present tense.                                                              | "The following filters are supported."                | "The following filters are now supported."        |
+| Use active voice, making it clear who performs the action.                      | "When you send a query, the server sends a response." | "The service is queried, and a response is sent." |
+| Address the reader directly, using 'you' instead of 'we', 'the user' or 'they'. | "You can configure..."                                | "The user can configure..."                       |
+| Conditions appear before instructions, not after.                               | "If enabled, click save."                             | "Click save if enabled."                          |
 
 ## Style
 
-> [!NOTE]
-> TODO: Provide yes/no example of each.
-
-- Use sentence case for document titles and section headings.
-- Use descriptive and meaningful link text.
-- Use Merriam-Webster.com for spelling.
-- Spell out abbreviations on first reference, followed by the abbreviation in parentheses.
-- Avoid directional language (for example, above or below).
-- Sentences should lead with important information, and ideally fewer than 26 words.
+| Guidance                                                                                 | Recommended | Not recommended |
+|------------------------------------------------------------------------------------------|-------------|-----------------|
+| Use sentence case for document titles and section headings.                              | `[TODO]`    | `[TODO]`        |
+| Use descriptive and meaningful link text.                                                | `[TODO]`    | `[TODO]`        |
+| Use Merriam-Webster.com for spelling.                                                    | `[TODO]`    | `[TODO]`        |
+| Spell out abbreviations on first reference, followed by the abbreviation in parentheses. | `[TODO]`    | `[TODO]`        |
+| Avoid directional language (for example, above or below).                                | `[TODO]`    | `[TODO]`        |
+| Sentences should lead with important information, and ideally fewer than 26 words.       | `[TODO]`    | `[TODO]`        |
 
 ## Formatting
 
-> [!NOTE]
-> TODO: Provide yes/no example of each.
-
-- Don't skip levels of the heading hierarchy.
-  - Adopt: `<h1>`, then `<h2>`, then `<h3>`
-  - Avoid: `<h1>`, then `<h3>`
-- Use meaningful link text.
-  - Adopt: `<a>read the documentation</a>`
-  - Avoid: `<a>click here</a>`
-- Use qualifying nouns for technical keywords.
-  - Adopt: the `example.yaml` file
-  - Avoid: `example.yaml`
-- Use bold for `[TODO]`
-- Use italics for `[TODO]`
-- Use backticks for `[TODO]`
-- Use single quotes for `[TODO]`
-- Use double quotes for `[TODO]`
+| Guidance                                                                                                  | Recommended                        | Not recommended      |
+|-----------------------------------------------------------------------------------------------------------|------------------------------------|----------------------|
+| Don't skip levels of the heading hierarchy.                                                               | `<h1>` &rarr; `<h2>` &rarr; `<h3>` | `<h1>` &rarr; `<h3>` |
+| Use meaningful link text.                                                                                 | `<a>read the documentation</a>`    | `<a>click here</a>`  |
+| Use qualifying nouns for technical keywords.                                                              | the `example.yaml` file            | `example.yaml`       |
+| Use bold to highlight a word or statement, not related to code.                                           | `[TODO]`                           | `[TODO]`             |
+| Use italics when referencing people, websites, companies or technologies, unless part of a link.          | `[TODO]`                           | `[TODO]`             |
+| Use backticks when referring to file paths and names, along with inline code variables or function names. | `[TODO]`                           | `[TODO]`             |
+| Use single quotes when quoting phrases or terms within a sentence, or technical jargon.                   | `[TODO]`                           | `[TODO]`             |
+| Use double quotes when quoting full sentences, blocks of text, or when quoting external sources verbatim. | `[TODO]`                           | `[TODO]`             |
 
 ## Product
 
